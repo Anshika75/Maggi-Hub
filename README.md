@@ -1,5 +1,4 @@
 # Maggi Hub
-
 A food 🍱 website 🌐 offering you a wide range of delicacies 🍡 to enjoy this new year 🎉
 
 # Visit
